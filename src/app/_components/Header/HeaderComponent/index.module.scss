@@ -1,0 +1,22 @@
+.header {
+    
+    padding: 36px 0;
+    border: 2px solid blueviolet
+}
+
+.wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: calc(var(--base) / 2) var(--base);
+    border: 2px solid red
+}
+
+.logo {
+    width: 170px;
+}
+
+.hide {
+    display: none;
+}
