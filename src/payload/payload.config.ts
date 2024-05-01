@@ -54,6 +54,7 @@ export default buildConfig({
     webpack: config => {
       return {
         ...config,
+        cache: false,
         resolve: {
           ...config.resolve,
           alias: {
