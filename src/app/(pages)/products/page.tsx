@@ -10,6 +10,7 @@ import { HR } from '../../_components/HR'
 import Filters from './Filters'
 
 import classes from './index.module.scss'
+
 const Products = async () => {
   const { isEnabled: isDraftMode } = draftMode()
   let page: Page | null = null
