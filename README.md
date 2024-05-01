@@ -8,7 +8,7 @@ This template is right for you if you are selling:
 - Digital assets like ebooks or videos
 - Access to content like courses or premium articles
 
-Core features:
+Core features:  
 
 - [Pre-configured Payload Config](#how-it-works)
 - [Authentication](#users-authentication)
